@@ -12,6 +12,8 @@
 - [ ] **Redirect.dll infection (not woking)**
 - [ ] **Settings and Credentials reset ( when you open upthe Settings tab i will some time reset it)**
 
+[**Release X64 here**](https://github.com/Ducki67/FN-Launcher/releases/tag/untagged-925ca1356bf86d921f10)
+
 
 ### Based on the [Eon Launcher](https://github.com/eonfn/Launcher-V1) Tbh there is no more code from the eon launcher (execpt for the launching shit)
 
